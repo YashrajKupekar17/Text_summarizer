@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/yashrajkupekar/Text_summarizer
+Author: yashrajkupekar
+Author-email: yashraj4ml@gmail.com
+Project-URL: Bug Tracker, https://github.com/yashrajkupekar/Text_summarizer/issues
+License-File: LICENSE
+
+# Text_summarizer
+This is a simple text summarizer 
